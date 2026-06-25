@@ -1,22 +1,22 @@
-# PwC Switzerland Power BI Virtual Internship — Forage
+# PwC Switzerland — Diversity & Inclusion HR Analytics Dashboard
 
 ## Overview
-Completed PwC Switzerland's Data Analytics Virtual Internship on Forage, 
-focusing on HR Analytics and Diversity & Inclusion analysis using Power BI.
+Developed an interactive Power BI dashboard analysing workforce Diversity & 
+Inclusion for a telecom client (PhoneNow) as part of PwC Switzerland's Data 
+Analytics Virtual Internship on Forage.
 
-## What I built
-- Interactive Power BI dashboard analysing gender balance across 500+ executive roles
-- Visualised 6 KPIs: hiring rates, promotion trends, performance scores, and turnover
-- Identified 3 key barriers to leadership progression
-- Presented data-driven recommendations to virtual stakeholders
+## Key Analysis Areas
+- **Hiring & Promotion:** Hiring patterns, gender distribution in promotions, career progression
+- **Performance & Turnover:** Performance ratings by gender, turnover rates, reasons for leaving
+- **Retention:** Gaps in female and minority retention with data-driven recommendations
+- **KPI Tracking:** Monitored overall turnover rate target below 12%
+
+## Outcome
+Identified key barriers to leadership progression for underrepresented groups 
+and presented actionable recommendations to support equitable career development.
 
 ## Tools Used
-Power BI | DAX | Power Query | Excel | MySQL | Tableau
-
-## Key Insights
-- Gender imbalance identified at executive and senior management levels
-- Promotion rates for women significantly lower despite equal performance scores
-- Turnover rates higher among female employees in certain departments
+Power BI | DAX | Power Query | Excel
 
 ## Certificate
-PWC Switzerland Data Analytics Virtual Internship — July 2024
+PwC Switzerland Data Analytics Virtual Internship — Forage | July 2024
