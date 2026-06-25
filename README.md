@@ -21,4 +21,4 @@ Power BI | DAX | Power Query | Excel
 ## Certificate
 PwC Switzerland Data Analytics Virtual Internship — Forage | July 2024
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
